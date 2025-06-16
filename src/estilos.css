@@ -1,0 +1,46 @@
+nav{
+    background-color: rgba(11, 11, 173, 0.986);
+}
+
+.princi{
+    background-color: rgb(25, 0, 255);
+
+}
+.peli{
+    background-color: rgb(6, 40, 104);
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.842);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+h2{
+    background-color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+h3{
+    background-color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.fooder{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+  padding: 10px 20px;
+  font-size: 14px;
+
+}
+.header{
+    background-color: black;
+}
+.menu{
+    background-color: rgb(0, 0, 0);
+}
+.caja{
+    background-color: rgb(22, 22, 22);
+}
